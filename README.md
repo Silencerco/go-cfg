@@ -1,10 +1,13 @@
-# go-primogen
+# go-cfg
 
 [![License](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg?style=flat)][license]
-[![Build Status](https://travis-ci.org/steenzout/go-set-api.svg?branch=master)](https://travis-ci.org/steenzout/go-set-api/)
-[![Coverage Status](https://coveralls.io/repos/steenzout/go-set-api/badge.svg?branch=master&service=github)](https://coveralls.io/github/steenzout/go-set-api?branch=master)
+[![Build Status](https://travis-ci.org/SilencerCo/go-cfg.svg?branch=master)](https://travis-ci.org/SilencerCo/go-cfg/)
+[![Coverage Status](https://coveralls.io/repos/SilencerCo/go-cfg/badge.svg?branch=master&service=github)](https://coveralls.io/github/SilencerCo/go-cfg?branch=master)
 
-This repository is used as starting point for Go projects.
+Package for configuration.
+
+Inspired on [golang/context][golang/context] but for a different purpose.
 
 
-[license]:  https://raw.githubusercontent.com/steenzout/go-set-api/master/LICENSE   "Apache License 2.0"
+[license]:  https://raw.githubusercontent.com/SilencerCo/go-cfg/master/LICENSE   "Apache License 2.0"
+[golang/context]: https://golang.org/pkg/context/ "The Go Programming Language: context package"
